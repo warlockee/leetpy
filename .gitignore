@@ -1,0 +1,20 @@
+# pycharm
+.idea
+
+# virtualenv
+venv
+
+# python cache
+__pycache__
+.pyc
+
+# logs
+*.log
+*.logs
+
+# database
+*.sqlite3
+
+# logs
+*.log
+*.logs
